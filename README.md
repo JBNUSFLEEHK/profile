@@ -1,1 +1,16 @@
-# profile
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JBNU SF</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+   Hello! my name is Leehyeongyu.<br>
+   I'm intersted in High-tech agriculture.<br>
+   I have a plan to fulfill my dream at Jeonbuk National University.<br>
+   
+</body>
+</html>
