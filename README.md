@@ -8,7 +8,7 @@
 5. vpd 적정값을 설정해 LineNotify로 알림이 오도록 한다.
 --------------------------------------------------------------------
 ```
-print('import math
+print import math
 import requests
 import time
 import threading
